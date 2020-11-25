@@ -26,7 +26,7 @@
 
 <br />
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Benoît's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Benoit-Ldl&show_icons=true&hide_border=true" />
+  <img align="left" alt="Benoît's GitHub Stats" src="https://https://github-readme-stats.benoit-ldl.vercel.app/api?username=Benoit-LdL&show_icons=true&hide_border=true" />
 <br />
 
 [twitter]: https://twitter.com/Benoit_Lagasse
