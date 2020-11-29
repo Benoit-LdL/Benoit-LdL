@@ -1,7 +1,7 @@
 ### Hi there, I'm Benoît Lagasse👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: learn more about (humanoid) Robotics
+- 🎓 Currently following bachelor degree in electronics and ICT 🤓
+- 🥅 2021 Goals: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
