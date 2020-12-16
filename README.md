@@ -1,7 +1,7 @@
 ### Hi there, I'm Benoît Lagasse👋
 - Passion for 3D printing 🖨️ and electronics 🔌
 - 🎓 Currently following bachelor degree in electronics and ICT 🤓
-- 🥅 2021 Goals: learn more about (humanoid) Robotics 🤖
+- 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
