@@ -16,7 +16,8 @@
 <img align="left" style="background-color:white" alt="Python"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 <img align="left" alt="C#"      width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
 <img align="left" alt="C++"     width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
-<img align="left" alt="ROS"     height="22px" src="https://www.theconstructsim.com/wp-content/uploads/2015/10/rosLarge.png" />
+<img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
+<img align="left" alt="ROS"     height="22px" src="/icons/ros_w.png" />
 <img align="left" alt="Git"     height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 <img align="left" alt="GitHub"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="Bash"    width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />
