@@ -4,43 +4,43 @@
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
-[<img align="left" alt="YouTube" width="22px" src="/icons/youtube.png" />][youtube]
-[<img align="left" alt="YouTube" width="22px" src="/icons/youtube_w.png" />][youtube]
+[<img align="left" alt="YouTube" width="25px" src="/icons/youtube.png" />][youtube]
+[<img align="left" alt="YouTube" width="25px" src="/icons/youtube_w.png" />][youtube]
 
-[<img align="left" alt="Twitter" width="22px" src="/icons/twitter.png" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="/icons/twitter_w.png" />][youtube]
+[<img align="left" alt="Twitter" width="25px" src="/icons/twitter.png" />][youtube]
+[<img align="left" alt="Twitter" width="25px" src="/icons/twitter_w.png" />][youtube]
 
-[<img align="left" alt="LinkedIn" width="22px" src="/icons/linkedin.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="/icons/linkedin_w.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="25px" src="/icons/linkedin.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="25px" src="/icons/linkedin_w.png" />][youtube]
 
 <br />
 
 ### Languages:
 
-<img align="left" alt="Python"     height="22px" src="/icons/python.png" />
-<img align="left" alt="Python"     height="22px" src="/icons/python_w.png" />
+<img align="left" alt="Python"     height="25px" src="/icons/python.png" />
+<img align="left" alt="Python"     height="25px" src="/icons/python_w.png" />
 
-<img align="left" alt="C#"     height="22px" src="/icons/csharp.png" />
-<img align="left" alt="C#"     height="22px" src="/icons/csharp_w.png" />
+<img align="left" alt="C#"     height="25px" src="/icons/csharp.png" />
+<img align="left" alt="C#"     height="25px" src="/icons/csharp_w.png" />
 
-<img align="left" alt="C++"     height="22px" src="/icons/cplusplus.png" />
-<img align="left" alt="C++"     height="22px" src="/icons/cplusplus_w.png" />
+<img align="left" alt="C++"     height="25px" src="/icons/cplusplus.png" />
+<img align="left" alt="C++"     height="25px" src="/icons/cplusplus_w.png" />
 
 <br />
 
 ### Tools:
 
-<img align="left" alt="GitHub"  width="22px"  src="/icons/github.png" />
-<img align="left" alt="GitHub"  width="22px"  src="/icons/github_w.png" />
+<img align="left" alt="GitHub"  width="25px"  src="/icons/github.png" />
+<img align="left" alt="GitHub"  width="25px"  src="/icons/github_w.png" />
 
-<img align="left" alt="VS Code"  width="22px"  src="/icons/visualstudiocode.png" />
-<img align="left" alt="VS Code"  width="22px"  src="/icons/visualstudiocode_w.png" />
+<img align="left" alt="VS Code"  width="25px"  src="/icons/visualstudiocode.png" />
+<img align="left" alt="VS Code"  width="25px"  src="/icons/visualstudiocode_w.png" />
 
-<img align="left" alt="Bash"  width="22px"  src="/icons/gnubash.png" />
-<img align="left" alt="Bash"  width="22px"  src="/icons/gnubash_w.png" />
+<img align="left" alt="Bash"  width="25px"  src="/icons/gnubash.png" />
+<img align="left" alt="Bash"  width="25px"  src="/icons/gnubash_w.png" />
 
-<img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
-<img align="left" alt="ROS"     height="22px" src="/icons/ros_w.png" />
+<img align="left" alt="ROS"     height="25px" src="/icons/ros.png" />
+<img align="left" alt="ROS"     height="25px" src="/icons/ros_w.png" />
 
 <br />
 
