@@ -4,7 +4,8 @@
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="/icons/youtube.png" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="/icons/youtube_w.png" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
