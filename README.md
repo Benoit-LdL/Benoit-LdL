@@ -26,9 +26,6 @@
 <img align="left" alt="C++"     height="22px" src="/icons/cplusplus.png" />
 <img align="left" alt="C++"     height="22px" src="/icons/cplusplus_w.png" />
 
-<img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
-<img align="left" alt="ROS"     height="22px" src="/icons/ros_w.png" />
-
 <br />
 
 ### Tools:
@@ -41,6 +38,9 @@
 
 <img align="left" alt="Bash"  width="22px"  src="/icons/gnubash.png" />
 <img align="left" alt="Bash"  width="22px"  src="/icons/gnubash_w.png" />
+
+<img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
+<img align="left" alt="ROS"     height="22px" src="/icons/ros_w.png" />
 
 <br />
 
