@@ -7,11 +7,11 @@
 [<img align="left" alt="YouTube" width="25px" src="/icons/youtube.png" />][youtube]
 [<img align="left" alt="YouTube" width="25px" src="/icons/youtube_w.png" />][youtube]
 
-[<img align="left" alt="Twitter" width="25px" src="/icons/twitter.png" />][youtube]
-[<img align="left" alt="Twitter" width="25px" src="/icons/twitter_w.png" />][youtube]
+[<img align="left" alt="Twitter" width="25px" src="/icons/twitter.png" />][twitter]
+[<img align="left" alt="Twitter" width="25px" src="/icons/twitter_w.png" />][twitter]
 
-[<img align="left" alt="LinkedIn" width="25px" src="/icons/linkedin.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="25px" src="/icons/linkedin_w.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="25px" src="/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="25px" src="/icons/linkedin_w.png" />][linkedin]
 
 <br />
 
