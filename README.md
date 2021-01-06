@@ -4,6 +4,7 @@
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
+
 [<img align="left" alt="YouTube" width="25px" src="/icons/youtube.png" />][youtube]
 [<img align="left" alt="YouTube" width="25px" src="/icons/youtube_w.png" />][youtube]
 
@@ -30,14 +31,14 @@
 
 ### Tools:
 
-<img align="left" alt="GitHub"  width="25px"  src="/icons/github.png" />
-<img align="left" alt="GitHub"  width="25px"  src="/icons/github_w.png" />
-
 <img align="left" alt="VS Code"  width="25px"  src="/icons/visualstudiocode.png" />
 <img align="left" alt="VS Code"  width="25px"  src="/icons/visualstudiocode_w.png" />
 
 <img align="left" alt="Bash"  width="25px"  src="/icons/gnubash.png" />
 <img align="left" alt="Bash"  width="25px"  src="/icons/gnubash_w.png" />
+
+<img align="left" alt="GitHub"  width="25px"  src="/icons/github.png" />
+<img align="left" alt="GitHub"  width="25px"  src="/icons/github_w.png" />
 
 <img align="left" alt="ROS"     height="25px" src="/icons/ros.png" />
 <img align="left" alt="ROS"     height="25px" src="/icons/ros_w.png" />
