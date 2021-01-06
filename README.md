@@ -14,28 +14,28 @@
 ### Languages:
 
 <img align="left" alt="Python"     height="22px" src="/icons/python.png" />
-<img align="left" alt="Python"     height="22px" src="/icons/python_w.png" />
+<img align="left" alt="Python_w"     height="22px" src="/icons/python_w.png" />
 
 <img align="left" alt="C#"     height="22px" src="/icons/csharp.png" />
-<img align="left" alt="C#"     height="22px" src="/icons/csharp_w.png" />
+<img align="left" alt="C#_w"     height="22px" src="/icons/csharp_w.png" />
 
 <img align="left" alt="C++"     height="22px" src="/icons/cplusplus.png" />
-<img align="left" alt="C++"     height="22px" src="/icons/cplusplus_w.png" />
+<img align="left" alt="C++_w"     height="22px" src="/icons/cplusplus_w.png" />
 
 <img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
-<img align="left" alt="ROS"     height="22px" src="/icons/ros_w.png" />
+<img align="left" alt="ROS_w"     height="22px" src="/icons/ros_w.png" />
 
 
 ### Tools
 
 <img align="left" alt="GitHub"  width="22px"  src="/icons/github.png" />
-<img align="left" alt="GitHub"  width="22px"  src="/icons/github_w.png" />
+<img align="left" alt="GitHub_w"  width="22px"  src="/icons/github_w.png" />
 
 <img align="left" alt="VS Code"  width="22px"  src="/icons/visualstudiocode.png" />
-<img align="left" alt="VS Code"  width="22px"  src="/icons/visualstudiocode_w.png" />
+<img align="left" alt="VS Code_w"  width="22px"  src="/icons/visualstudiocode_w.png" />
 
-<img align="left" alt="Bash"  width="22px"  src="/icons/bash.png" />
-<img align="left" alt="Bash"  width="22px"  src="/icons/bash_w.png" />
+<img align="left" alt="Bash"  width="22px"  src="/icons/gnubash.png" />
+<img align="left" alt="Bash_w"  width="22px"  src="/icons/gnubash_w.png" />
 
 <br />
 
