@@ -34,6 +34,9 @@
 <img align="left" alt="VS Code"  width="25px"  src="/icons/visualstudiocode.png" />
 <img align="left" alt="VS Code"  width="25px"  src="/icons/visualstudiocode_w.png" />
 
+<img align="left" alt="Arduino"  width="25px"  src="/icons/arduino.png" />
+<img align="left" alt="Arduino"  width="25px"  src="/icons/arduino_w.png" />
+
 <img align="left" alt="Bash"  width="25px"  src="/icons/gnubash.png" />
 <img align="left" alt="Bash"  width="25px"  src="/icons/gnubash_w.png" />
 
