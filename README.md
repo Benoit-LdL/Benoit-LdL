@@ -11,18 +11,31 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" style="background-color:white" alt="Python"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" alt="C#"      width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
-<img align="left" alt="C++"     width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+<img align="left" alt="Python"     height="22px" src="/icons/python.png" />
+<img align="left" alt="Python"     height="22px" src="/icons/python_w.png" />
+
+<img align="left" alt="C#"     height="22px" src="/icons/csharp.png" />
+<img align="left" alt="C#"     height="22px" src="/icons/csharp_w.png" />
+
+<img align="left" alt="C++"     height="22px" src="/icons/cplusplus.png" />
+<img align="left" alt="C++"     height="22px" src="/icons/cplusplus_w.png" />
+
 <img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
 <img align="left" alt="ROS"     height="22px" src="/icons/ros_w.png" />
-<img align="left" alt="Git"     height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
-<img align="left" alt="GitHub"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-<img align="left" alt="Bash"    width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />
-<img align="left" alt="VS Code" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
 
+
+### Tools
+
+<img align="left" alt="GitHub"  width="22px"  src="/icons/github.png" />
+<img align="left" alt="GitHub"  width="22px"  src="/icons/github_w.png" />
+
+<img align="left" alt="VS Code"  width="22px"  src="/icons/visualstudiocode.png" />
+<img align="left" alt="VS Code"  width="22px"  src="/icons/visualstudiocode_w.png" />
+
+<img align="left" alt="Bash"  width="22px"  src="/icons/bash.png" />
+<img align="left" alt="Bash"  width="22px"  src="/icons/bash_w.png" />
 
 <br />
 
