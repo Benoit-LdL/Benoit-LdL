@@ -25,8 +25,9 @@
 <img align="left" alt="ROS"     height="22px" src="/icons/ros.png" />
 <img align="left" alt="ROS_w"     height="22px" src="/icons/ros_w.png" />
 
+<br />
 
-### Tools
+### Tools:
 
 <img align="left" alt="GitHub"  width="22px"  src="/icons/github.png" />
 <img align="left" alt="GitHub_w"  width="22px"  src="/icons/github_w.png" />
