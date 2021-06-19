@@ -1,6 +1,7 @@
 ### Hi there, I'm Benoît Lagasse👋
 - Passion for 3D printing 🖨️ and electronics 🔌
-- 🎓 Currently following bachelor degree in electronics and ICT 🤓
+- 🎓 I got my bachelor degree in electronics and ICT
+- 🎓 Starting a master degree in engineering
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
