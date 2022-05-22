@@ -4,7 +4,7 @@
 - 🎓 Doing an internship at MX3D
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
-[<picture> <source media="(prefers-color-scheme: dark)" srcset="icons/youtube.png"> <img alt="YouTube" width="25px" src="icons/youtube.png"> </picture>][youtube]
+[<picture> <source media="(prefers-color-scheme: dark)" srcset="icons/youtube_w.png"> <img alt="YouTube" width="25px" src="icons/youtube.png"> </picture>][youtube]
 
 ### Connect with me:
 
