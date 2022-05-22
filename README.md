@@ -4,8 +4,6 @@
 - 🎓 Doing an internship at MX3D
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
-[<picture> <source media="(prefers-color-scheme: dark)" srcset="icons/youtube_w.png"> <img alt="YouTube" width="25px" src="icons/youtube_w.png"> </picture>][youtube]
-
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="25px" src="icons/youtube.png" />][youtube]
@@ -38,7 +36,7 @@
 <img align="left" alt="VS Code"  width="25px"  src="icons/visualstudiocode_w.png" />
 
 <img align="left" alt="Arduino"  width="25px"  src="icons/arduino.png" />
-<img align="left" alt="Arduino"  width="25px"  src=/icons/arduino_w.png" />
+<img align="left" alt="Arduino"  width="25px"  src="icons/arduino_w.png" />
 
 <img align="left" alt="Bash"  width="25px"  src="icons/gnubash.png" />
 <img align="left" alt="Bash"  width="25px"  src="icons/gnubash_w.png" />
