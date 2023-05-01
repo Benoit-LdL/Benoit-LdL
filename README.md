@@ -1,7 +1,7 @@
 ### Hi there, I'm Benoît Lagasse👋
 - Passion for 3D printing 🖨️ and electronics 🔌
 - 🎓 I got my bachelor degree in electronics and ICT
-- 🎓 Doing an internship at MX3D
+- 🎓 Currently studying and working in France
 - 🥅 Current Goal: learn more about (humanoid) Robotics 🤖
 
 ### Connect with me:
